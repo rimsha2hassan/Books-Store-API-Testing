@@ -1,6 +1,6 @@
 # Books-Store-API-Testing
 
-This repository contains a Postman collection used for testing various endpoints of the Simple Books API. The collection includes comprehensive test cases covering authentication, data validation, error handling, and ensuring the API behaves as expected.
+This repository contains a Postman collection used for testing various endpoints of the Books Store API. The collection includes comprehensive test cases covering authentication, data validation, error handling, and ensuring the API behaves as expected.
 
 # Contents
 API_Test_Collection.json: The exported Postman collection containing all the requests and tests.
