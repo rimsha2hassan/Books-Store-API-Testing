@@ -20,9 +20,6 @@ README.md: Documentation and instructions on how to use the Postman collection.
  2. Click the Run button to execute all the requests in the collection or select individual requests to run specific tests.
 Review the test results in the Postman console.
 
-## 3. Environment Setup (Optional)
- If the collection uses environment variables (e.g., for API keys or tokens), ensure you set up the necessary variables in Postman before running the tests.
-
 # Test Cases Covered
 ## 1. Authentication Validation
  - Unauthorized Access: Validates that the API returns a 401 Unauthorized status when an invalid bearer token is provided.
@@ -57,5 +54,3 @@ Review the test results in the Postman console.
 ## Contributing
 If you'd like to contribute to this project, feel free to submit a pull request or open an issue with your suggestions.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
